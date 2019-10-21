@@ -1,0 +1,17 @@
+{
+  "homepage":"https://ebruph-b.github.io/profilecard",
+  "name": "profilecard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
